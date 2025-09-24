@@ -7,14 +7,14 @@ This portfolio highlights my technical projects and ongoing journey in the cyber
 ## Objective
 To gain practical cybersecurity experience through internships, where I can apply my technical skills in **threat detection, system hardening, and penetration testing**, while continuing to grow as a cybersecurity professional.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey has led me to develop a passion for cybersecurity, and I am now eager to learn more into this field.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AI Development         | <a href="https://github.com/Sambroder75/FaunaSense-AI">FaunaSense</a>|
-|  | |
+| JAKI Vulnerability Testing | <a href="https://github.com/Sambroder75/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
 |  | |
 |  | |
 |  | |
@@ -55,6 +55,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 ## Projects
 - <a href="https://github.com/Sambroder75/FaunaSense-AI">FaunaSense</a>
+- <a href="https://github.com/Sambroder75/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
 <!--
 **Sambroder75/Sambroder75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
