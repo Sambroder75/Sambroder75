@@ -1,5 +1,5 @@
 # Hello, I'm Aurelio 👋
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aurelio-suhartono/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity student at Binus University with a passion for **network security, penetration testing, secure system deployment, AI development and UI/UX**.  
 This portfolio highlights my technical projects and ongoing journey in the cybersecurity field.
