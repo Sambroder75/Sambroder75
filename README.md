@@ -14,11 +14,8 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AI Development         | <a href="https://github.com/Sambroder75/FaunaSense-AI">FaunaSense</a>|
-| JAKI Vulnerability Testing | <a href="https://github.com/Sambroder75/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-|  | |
-|  | |
-|  | |
-|  | |
+| Mobile Pentesting | <a href="https://github.com/Sambroder75/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
+
 <!--
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
