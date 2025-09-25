@@ -2,9 +2,8 @@
 <a href="https://www.linkedin.com/in/aurelio-suhartono/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity student at Binus University with a passion for network security, penetration testing, secure system deployment, AI development and UI/UX.  
-This portfolio highlights my technical projects and ongoing journey in the cybersecurity field. Aiming gain practical cybersecurity experience through internships, where I can apply my technical skills in threat detection, system hardening, and penetration testing, while continuing to grow as a cybersecurity professional.
-
-My journey has led me to develop a passion for cybersecurity, and I am now eager to learn more into this field.
+This portfolio highlights my technical projects and ongoing journey in the cybersecurity field. Aiming to gain practical cybersecurity experience through internships, where I can apply my technical skills in threat detection, system hardening, and penetration testing, while continuing to grow as a cybersecurity professional.
+My journey has led me to develop a passion for cybersecurity, and I am now eager to learn more in this field.
 
 ## Skills
 
